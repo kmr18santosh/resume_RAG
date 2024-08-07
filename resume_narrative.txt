@@ -1,0 +1,38 @@
+Personal Information
+Santosh Kumar is a seasoned Software Engineer based in Bangalore, India, with a deep-seated passion for artificial intelligence and machine learning. With a robust portfolio that includes significant contributions to various tech fields and a remarkable academic background, Santosh has established himself as a versatile and fast-learning professional. His journey is marked by a persistent drive to bridge the gap between innovative research and practical applications, a goal he pursues through a variety of collaborative projects and independent ventures.
+
+Santosh holds a Bachelor of Technology degree in Computer Science and Engineering from Dr. B. C. Roy Engineering College, where he graduated with a CGPA of 7.92. His academic journey was not only a period of acquiring theoretical knowledge but also a time of engaging in practical projects and internships that laid a solid foundation for his career. He is also a published researcher, with his work on Image Steganography being recognized at an IEEE conference.
+
+Santosh is a prolific learner, constantly acquiring new skills to stay at the forefront of technological advancements. His technical toolkit includes TensorFlow, OpenCV, React.js, Node.js, and various other full-stack technologies. He is also well-versed in Sanskrit scriptures, which he believes hold significant potential for advancing AI and NLP to achieve telegraphic precision and lossless semantics. Santosh is always on the lookout for opportunities to collaborate and innovate, aiming to shape the digital future and contribute to the global tech community.
+
+Professional Experience
+Junior Software Engineer at Pacecom Technologies Pvt Ltd (05/2023 - Present)
+Santosh currently serves as a Junior Software Engineer at Pacecom Technologies Pvt Ltd in Bangalore, India. In this role, he has led several image processing tasks on drone-captured imagery to enhance state border security, achieving a 60% improvement in accuracy using machine learning and computer vision techniques. One of his notable projects involved developing a question-answering system using NLP and Hugging Face for chunking and vectorization, integrating the Milvus database for storing data, and utilizing Langchain for query expansion. This system significantly enhanced analytics reports for drone surveillance data.
+
+He has also developed three full-stack applications using React, Node.js, and MongoDB, which were hosted on AWS, improving user experience and functionality. Additionally, Santosh trained AI/ML models on extensive drone-captured farmland imagery to accurately segregate individual plots, identify crop types, and calculate projected yields with 80% accuracy. His efforts have optimized agricultural planning and decision-making. Beyond technical contributions, Santosh has played a crucial role in mentoring interns and collaborating with cross-functional teams to meet the Karnataka State Government Forest Department's requirements.
+
+Freelance Web Developer (03/2020 - 01/2023)
+During the COVID-19 lockdown, Santosh ventured into freelancing, broadening his expertise in web development. He focused on delivering tailored web solutions using Laravel, React, and Node.js. Notably, he developed a web application for NGOs involved in food and relief distribution, allowing users to register and track the distribution process. This experience honed his technical skills and improved his ability to communicate effectively with clients and manage projects independently.
+
+Researcher at College R&D for IEEE (02/2018 - 01/2020)
+As a researcher in the College R&D for IEEE, Santosh developed an Image Steganography algorithm that enhanced encryption and decryption efficacy. This work was presented at an IEEE conference, showcasing significant advancements in the field. He also assisted in creating mathematical models for a PhD thesis, focusing on calculating fairness indices and detecting communities in complex networks. This role involved extensive mathematical analysis and critical evaluation of research literature, contributing to significant advancements in the field.
+
+Projects
+Portfolio Web Application with LLM NLP Chatbot (06/2024 - 07/2024)
+Santosh developed a portfolio web application using the MERN stack, integrating NLP technologies, including LLM API and Langchain, to create a chatbot capable of answering queries about his projects and work experience. This application allows HR and recruiters to interactively explore his resume, enhancing user engagement and usability.
+
+Data Science Capstone Project (08/2022 - 09/2022)
+In this project, Santosh applied various data science techniques to assess the landing accuracy of rockets. The project involved data visualization, machine learning, and extensive use of Python tools to handle large datasets, perform data cleaning, and develop predictive models.
+
+Fisherman Game - Python Project (09/2022)
+Santosh created an interactive game using the Pygame package in Python. This project involved designing game mechanics, developing graphics, and ensuring smooth gameplay, combining his programming skills with creativity.
+
+Publications
+A Novel Approach to Hide Text Data in Colour Image (08/2018)
+In this IEEE-published paper, Santosh presented a novel Image Steganography algorithm that overcomes limitations and performance bottlenecks of existing algorithms. The research demonstrated significant improvements in encryption and decryption processes, receiving positive feedback at an IEEE conference.
+
+Education
+Santosh completed his Bachelor of Technology in Computer Science and Engineering at Dr. B. C. Roy Engineering College, achieving a CGPA of 7.92. His education provided a comprehensive understanding of programming, data structures, algorithms, computer networks, and software engineering.
+
+Certificates
+Santosh has earned several certifications, including the IBM Data Science Professional Certificate, Google's "The Bits and Bytes of Computer Networking," Oracle PL/SQL, and Stanford University's "Introduction to Logic." These certifications reflect his continuous learning and proficiency in various technical domains.
