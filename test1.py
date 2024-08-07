@@ -6,7 +6,7 @@ import torch
 import google.generativeai as palm
 
 # Set your PaLM API key here
-PALM_API_KEY = 'AIzaSyC516ARpbqD5vwLrgQFYCeNFJ8gf53Pxx4'
+PALM_API_KEY = "Enter your PALM API KEY here"
 palm.configure(api_key=PALM_API_KEY)
 
 # Initialize the Milvus connection
